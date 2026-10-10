@@ -1,0 +1,4 @@
+Put the intro voice file here with the exact name: intro-voice.mp3
+Suggested line: "Welcome to Rules Town. Where dreams come true."
+Timing expected by the intro (seconds): Welcome 0.5-1.0 | To The 1.1-1.4 | Rules Town 1.4-2.4 | Where Dreams 2.6-3.3 | Come True 3.4-4.5
+Without this file the intro runs silently (no error).
